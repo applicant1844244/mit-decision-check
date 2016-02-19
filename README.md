@@ -6,7 +6,7 @@ This is a python script that logs into your MIT portal to automatically checks y
 
 -Downloads the html and checks whether you have been accepted or not.
 
--Prints your decision to the default printer. Simulatneously it speaks out your decision in a cool robotic voice.
+-Prints your decision to the default printer. Simulatneously it speaks out your decision in a cool robotic voice. (https://clyp.it/j4a413he)
 
 -Is awesome. Will run as a background process.
 
