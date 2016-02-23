@@ -17,6 +17,8 @@ Note: It is currently only supported for Linux. Please request for other OS. Tes
 
 Requirements: Python 2.7, python-twill, and html2text
 
+Future plans: automaticaly capture video from webcam and post to social networks.
+
 -----------------
 
 Have fun and all the best!
