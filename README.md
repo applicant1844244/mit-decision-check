@@ -1,8 +1,8 @@
 # mit-decision-check
 
-This is a python script that logs into your MIT portal to automatically checks your decision.
+This is a python script that logs into your MIT portal to automatically check your decision.
 
--It checks your decisions every 15 seconds.
+-It checks your decisions every few seconds.
 
 -Downloads the html and checks whether you have been accepted or not.
 
