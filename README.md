@@ -17,6 +17,8 @@ Note: It is currently only supported for Linux. Please request for other OS. Tes
 
 Requirements: Python 2.7, python-twill, and html2text
 
+Pending: use Beautiful Soup for parsing html; develop a server script that checks if decisions are posted (to prevent individual checks and reduce traffic on portal)
+
 Future plans: automaticaly capture video from webcam and post to social networks.
 
 -----------------
