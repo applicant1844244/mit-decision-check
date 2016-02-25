@@ -10,7 +10,7 @@ This is a python script that logs into your MIT portal to automatically check yo
 
 -Is awesome. Will run as a background process.
 
-![Terminal View]("https://github.com/applicant1844244/mit-decision-check/blob/master/screenshot.png")
+![This is how it looks :D](https://github.com/applicant1844244/mit-decision-check/blob/master/screenshot.png)
 
 -----------------
 
